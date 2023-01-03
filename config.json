@@ -1,0 +1,19 @@
+{
+    "project": {
+        "name": "boardgames",
+        "title": ""
+    },
+    "boardgamegeek": {
+        "user_name": "clementyne",
+        "extra_params": {
+            "own": 1,
+            "exclude_subtype": "expansion"
+        }
+    },
+    "algolia": {
+        "app_id": "1A2LJQU1EZ",
+        "api_key_search_only": "55748485eed56940beb2d530883bc537",
+        "index_name": "boardgames",
+        "hits_per_page": 50
+    }
+}
